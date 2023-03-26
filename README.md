@@ -10,8 +10,13 @@
 ![image](https://user-images.githubusercontent.com/71203808/227753143-b5050ccb-3e4d-4b29-8778-5fe4ba2fc3d0.png)
 
 ## データ配布
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47_centroid.pmtiles`(1.2GB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47.pmtiles`(19.5GB)
+### 町丁・字等別
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_JGD2011.pmtiles`(414.9MB)
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.pmtiles`(71.5MB)
+
+### 基本単位区
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.pmtiles`(1.1GB)
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.pmtiles`(347.5MB)
 
 ## ベクトルタイル設計情報
 ### ■ 重心(fude_2022_01_47_centroid.pmtiles)
