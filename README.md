@@ -5,7 +5,7 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/Maff-FudePolygon-PMTiles/
+- https://shi-works.github.io/R2Kokusei_PMTiles/
 - サンプル画像
 ![image](https://user-images.githubusercontent.com/71203808/227701862-d0b34585-7b7e-47b6-bbfc-422752494cd7.png)
 
