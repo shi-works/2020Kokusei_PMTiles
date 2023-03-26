@@ -7,7 +7,7 @@
 ## デモサイト
 - https://shi-works.github.io/R2Kokusei_PMTiles/
 - サンプル画像
-![image](https://user-images.githubusercontent.com/71203808/227701862-d0b34585-7b7e-47b6-bbfc-422752494cd7.png)
+![image](https://user-images.githubusercontent.com/71203808/227753143-b5050ccb-3e4d-4b29-8778-5fe4ba2fc3d0.png)
 
 ## データ配布
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47_centroid.pmtiles`(1.2GB)
