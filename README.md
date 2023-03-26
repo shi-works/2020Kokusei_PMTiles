@@ -19,34 +19,38 @@
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.pmtiles`(347.5MB)
 
 ## ベクトルタイル設計情報
-### ■ 重心(fude_2022_01_47_centroid.pmtiles)
-- 筆ポリゴンがある位置を小縮尺でも把握できるようにするための重心データです。
+### ■ 町丁・字等別
+#### 境界データ
+- 境界データそのものを可能な限り生かしたデータです。
 - tippecanoeによるデータの間引きを行っていません。
 
-#### ズームレベル範囲
-2-13
-
-#### 属性
-属性は全て外してあります。
-
-### ■ 筆界(fude_2022_01_47.pmtiles)
-- 筆ポリゴンそのものを可能な限り生かしたデータです。
+#### 図形中⼼点
+- 町丁・字等名称や人口等のラベルを表示できるようにするためのポイントデータです。
 - tippecanoeによるデータの間引きを行っていません。
 
-#### ズームレベル範囲
-12-16
+### ズームレベル範囲
+- 10-14
 
-#### 属性
-- 筆ポリゴンの属性はそのまま生かしています（前前年筆ポリゴンID以外）。
-- 結果として、次の属性がついていると認識しています。
+### 属性
+- 境界データの属性はそのまま生かしています。
 
-- 属性項目名 名称
-- polygon_uuid 筆ポリゴンID
-- land_type 耕地の種類
-- issue_year 公開年度
-- edit_year 調製年度
-- history 履歴
-- last_polygon_uuid 前年筆ポリゴンID
-- local_government_cd 地方公共団体コード
-- point_lng 重心点座標（経度）
-- point_lat 重心点座標（経度）
+### ■ 基本単位区
+#### 境界データ
+- 境界データそのものを可能な限り生かしたデータです。
+- tippecanoeによるデータの間引きを行っていません。
+
+#### 図形中⼼点
+- 人口等のラベルを表示できるようにするためのポイントデータです。
+- tippecanoeによるデータの間引きを行っていません。
+
+### ズームレベル範囲
+- 12-14
+
+### 属性
+- 境界データの属性はそのまま生かしています。
+
+## 境界データの定義書（e-stat）
+### 小地域（町丁・字等）（JGD2011）
+- `https://www.e-stat.go.jp/gis/statmap-search/data?datatype=2&serveyId=A002005212020&downloadType=1&datum=2011`
+### 小地域（基本単位区）（JGD2011）
+- `https://www.e-stat.go.jp/gis/statmap-search/data?datatype=2&serveyId=B002005212020&downloadType=1&datum=2011`
