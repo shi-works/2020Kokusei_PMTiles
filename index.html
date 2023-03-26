@@ -172,7 +172,7 @@
                 minzoom: 12,
                 maxzoom: 16,
                 'paint': {
-                    'line-color': 'rgba(0, 101, 203, 1)',
+                    'line-color': 'rgba(0, 73, 147, 1)',
                     'line-width': 1.5
                 }
             });
@@ -202,10 +202,12 @@
                 'layout': {
                     'text-field': ['concat', ['get', 'S_NAME'], '\n', ['number-format', ['get', 'JINKO'], {}], '人'],
                     'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                    'text-size': 10
+                    'text-size': 11
                 },
                 'paint': {
-                    'text-color': 'black'
+                    'text-color': 'rgba(0, 73, 147, 1)',
+                    'text-halo-color': 'rgba(255, 255, 255, 1)',
+                    'text-halo-width': 1.5
                 }
             });
 
@@ -220,10 +222,12 @@
                 'layout': {
                     'text-field': ['concat', ['number-format', ['get', 'JINKO'], {}], '人'],
                     'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                    'text-size': 10
+                    'text-size': 11
                 },
                 'paint': {
-                    'text-color': 'black'
+                    'text-color': 'rgba(0, 101, 203, 1)',
+                    'text-halo-color': 'rgba(255, 255, 255, 1)',
+                    'text-halo-width': 1.5
                 }
             });
 
