@@ -1,4 +1,4 @@
-# R2Kokusei-PMTiles
+# 2020Kokusei-PMTiles
 
 ## データについて
 - 本データは、[政府統計窓口（e-stat）](https://www.e-stat.go.jp/)にて公開されている、[2020年国勢調査小地域（町丁・字等別及び基本単位区）の境界データ（JGD2011）](https://www.e-stat.go.jp/gis/statmap-search?page=1&type=2&aggregateUnitForBoundary=A&toukeiCode=00200521)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
