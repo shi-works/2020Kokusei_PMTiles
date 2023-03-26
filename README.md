@@ -54,3 +54,7 @@
 - `https://www.e-stat.go.jp/gis/statmap-search/data?datatype=2&serveyId=A002005212020&downloadType=1&datum=2011`
 ### 小地域（基本単位区）（JGD2011）
 - `https://www.e-stat.go.jp/gis/statmap-search/data?datatype=2&serveyId=B002005212020&downloadType=1&datum=2011`
+
+## PMTiles Viewer
+- PMTilesはPMTiles Viewerで閲覧することができます。
+- https://protomaps.github.io/PMTiles/
