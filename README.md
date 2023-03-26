@@ -5,7 +5,7 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/R2Kokusei_PMTiles/
+- https://shi-works.github.io/2020Kokusei_PMTiles/
 - サンプル画像
 ![image](https://user-images.githubusercontent.com/71203808/227753143-b5050ccb-3e4d-4b29-8778-5fe4ba2fc3d0.png)
 
