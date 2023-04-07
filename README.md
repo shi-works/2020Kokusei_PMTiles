@@ -16,6 +16,7 @@
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.pmtiles`(71.5MB)
 #### GeoParquet形式
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_JGD2011.parquet`(431.8MB)
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.parquet`(21.5MB)
 
 ### 基本単位区
 #### PMTiles形式
