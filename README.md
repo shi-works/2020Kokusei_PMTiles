@@ -22,6 +22,9 @@
 #### PMTiles形式
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.pmtiles`(1.1GB)
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.pmtiles`(347.5MB)
+#### GeoParquet形式
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.parquet`(848.4MB)
+- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.parquet`(179.3MB)
 
 ## ベクトルタイル設計情報
 ### ■ 町丁・字等別
