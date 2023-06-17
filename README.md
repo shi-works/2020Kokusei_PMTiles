@@ -12,19 +12,19 @@
 ## データ配布
 ### 町丁・字等別
 #### PMTiles形式 
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_JGD2011.pmtiles`(414.9MB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.pmtiles`(71.5MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_JGD2011.pmtiles`(414.9MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_point_JGD2011.pmtiles`(71.5MB)
 #### GeoParquet形式
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_JGD2011.parquet`(431.8MB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.parquet`(21.5MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_JGD2011.parquet`(431.8MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_point_JGD2011.parquet`(21.5MB)
 
 ### 基本単位区
 #### PMTiles形式
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.pmtiles`(1.1GB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.pmtiles`(347.5MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_JGD2011.pmtiles`(1.1GB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_point_JGD2011.pmtiles`(347.5MB)
 #### GeoParquet形式
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.parquet`(848.4MB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.parquet`(179.3MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_JGD2011.parquet`(848.4MB)
+- `https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_point_JGD2011.parquet`(179.3MB)
 
 ## ベクトルタイル設計情報
 ### ■ 町丁・字等別
