@@ -76,22 +76,22 @@
         // 夜間人口 町丁・字等別ベクトルタイル（ポリゴン）
         let protocol_jinko = new pmtiles.Protocol();
         maplibregl.addProtocol("pmtiles", protocol_jinko.tile);
-        let PM_Jinko_URL = "https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_JGD2011.pmtiles";
+        let PM_Jinko_URL = "https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_JGD2011.pmtiles";
 
         // 夜間人口 基本単位区ベクトルタイル（ポリゴン）
         let protocol_jinko_kihon = new pmtiles.Protocol();
         maplibregl.addProtocol("pmtiles", protocol_jinko_kihon.tile);
-        let PM_Jinko_Kihon_URL = "https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_JGD2011.pmtiles";
+        let PM_Jinko_Kihon_URL = "https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_JGD2011.pmtiles";
 
         // 夜間人口 町丁・字等別ベクトルタイル（ポイント）
         let protocol_jinko_point = new pmtiles.Protocol();
         maplibregl.addProtocol("pmtiles", protocol_jinko_point.tile);
-        let PM_Jinko_Point_URL = "https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2ka01-47_point_JGD2011.pmtiles";
+        let PM_Jinko_Point_URL = "https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2ka01-47_point_JGD2011.pmtiles";
 
         // 夜間人口 基本単位区ベクトルタイル（ポイント）
         let protocol_jinko_kihon_point = new pmtiles.Protocol();
         maplibregl.addProtocol("pmtiles", protocol_jinko_kihon_point.tile);
-        let PM_Jinko_Kihon_Point_URL = "https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/r2kokusei/r2kb01-47_point_JGD2011.pmtiles";
+        let PM_Jinko_Kihon_Point_URL = "https://xs489works.xsrv.jp/pmtiles-data/r2kokusei/r2kb01-47_point_JGD2011.pmtiles";
 
         const map = new maplibregl.Map({
             container: 'map',
